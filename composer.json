@@ -1,0 +1,14 @@
+{
+    "name": "frnicky/proofix",
+    "description": "This application allow us to get information about available curiers, then we can choose the arriving time and city to deterime the arriving time and we can choose the range of dates to get the trips schedules",
+    "authors": [
+        {
+            "name": "NikitaMarakushev",
+            "email": "nikitamarakushev@yandex.ru"
+        }
+    ],
+    "require": {
+        "php": "^7.2.0",
+      "ext-mysqli": "*"
+    }
+}
